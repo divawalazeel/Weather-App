@@ -10,14 +10,14 @@ body {
 }
 
 .app {
-  background-image: url('./Components/winter-bg.jpg ');
+  background-image: url('./Components/Snow.jpg ');
   background-size: cover;
   background-position: bottom;
   transition: 0.4  ease;
 }
 
 .app.warm {
-  background-image: url('./Components/summer.jpg');
+  background-image: url('./Components/clear.jpg');
 }
 
 main {
